@@ -1,0 +1,5 @@
+<?php 
+
+readfile("arc.svg");
+
+ ?>
